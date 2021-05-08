@@ -11,7 +11,7 @@
   <summary><b>CONTACT ME</b></summary><br>
 
   - <a href="https://m.facebook.com/meli.sange.167"/><img alt="Raden Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Add</b></a><br>
-  - <a href="https://t.me/Rizky1504"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Chat</b></a><br>
-  - <a href="https://instagram.com/riskidarmawan_15"/><img alt=" Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
+  - <a href="https://t.me/afifrden"/><img alt=" Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Chat</b></a><br>
+  - <a href="https://instragram"/><img alt=" Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
   </p>
 </details>
